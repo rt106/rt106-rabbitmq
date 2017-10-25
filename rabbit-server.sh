@@ -1,4 +1,5 @@
 #!/bin/sh
+# Copyright (c) General Electric Company, 2017.  All rights reserved.
 # set the environment variable to locate the config file "/rt106/rabbitmq.config"
 export RABBITMQ_CONFIG_FILE=/rt106/rabbitmq
 

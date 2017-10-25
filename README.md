@@ -1,4 +1,7 @@
 # RabbitMQContainer
+
+__Copyright (c) General Electric Company, 2017.  All rights reserved.__
+
 Container for RabbitMQ from https://hub.docker.com/_/rabbitmq/
 
 ### Building a RabbitMQ container image ###
