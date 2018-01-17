@@ -1,5 +1,7 @@
 # RabbitMQContainer
 
+[![CircleCI](https://circleci.com/gh/rt106/rt106-rabbitmq.svg?style=svg)](https://circleci.com/gh/rt106/rt106-rabbitmq)
+
 __Copyright (c) General Electric Company, 2017.  All rights reserved.__
 
 Container for RabbitMQ from https://hub.docker.com/_/rabbitmq/
